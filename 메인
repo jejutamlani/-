@@ -1,0 +1,73 @@
+<h1 class="title">Flexbox vs Grid</h1>
+<p class="description">Each using pure flexbox or grid. Just a fun experiment.</p>
+<h4 class="subtitle">Flexbox</h4>
+<div class="flex">
+  <div class="vertical-container">
+    <div class="post">
+      <div class="post-title">
+        Artificial Intelligence on the rise
+      </div>
+      <div class="post-copy">
+        Tootsie roll tiramisu donut. Carrot cake muffin lemon drops. Sweet icing cheesecake jelly beans wafer carrot
+        cake soufflé. Brownie carrot cake biscuit dessert. Soufflé cake pastry cookie cake sweet toffee toffee dessert.
+        Danish tootsie roll chocolate biscuit cake gummies tootsie roll gingerbread liquorice.
+      </div>
+      <div class="post-cta">Read more</div>
+    </div>
+  </div>
+  <div class="horizontal-container">
+    <div class="post">
+      <div class="post-title">Our future on the moon: What will the moon look like in 2069?</div>
+      <div class="post-copy">
+        Gingerbread lemon drops bear claw donut. Tootsie roll powder apple pie bonbon gummies. Icing donut cotton candy
+        powder powder pastry powder marshmallow apple pie. Cookie cookie chupa chups.
+      </div>
+      <div class="post-cta">Read more</div>
+    </div>
+    <div class="post">
+      <div class="post-title">Living like a moon astronaut is hard work</div>
+      <div class="post-copy">
+        Gingerbread lemon drops bear claw donut. Tootsie roll powder apple pie bonbon gummies. Icing donut cotton candy
+        powder powder pastry powder marshmallow apple pie. Cookie cookie chupa chups.
+      </div>
+      <div class="post-cta">Read more</div>
+    </div>
+  </div>
+</div>
+<h4 class="subtitle"> Grid</h4>
+<div class="grid">
+  <div class="vertical-container">
+    <div class="post">
+      <div class="post-title">
+        Artificial Intelligence on the rise
+      </div>
+      <div class="post-copy">
+        Tootsie roll tiramisu donut. Carrot cake muffin lemon drops. Sweet icing cheesecake jelly beans wafer carrot
+        cake soufflé. Brownie carrot cake biscuit dessert. Soufflé cake pastry cookie cake sweet toffee toffee
+        dessert.
+        Danish tootsie roll chocolate biscuit cake gummies tootsie roll gingerbread liquorice.
+      </div>
+      <div class="post-cta">Read more</div>
+    </div>
+  </div>
+  <div class="horizontal-container">
+    <div class="post">
+      <div class="post-title">Our future on the moon: What will the moon look like in 2069?</div>
+      <div class="post-copy">
+        Gingerbread lemon drops bear claw donut. Tootsie roll powder apple pie bonbon gummies. Icing donut cotton
+        candy
+        powder powder pastry powder marshmallow apple pie. Cookie cookie chupa chups.
+      </div>
+      <div class="post-cta">Read more</div>
+    </div>
+    <div class="post">
+      <div class="post-title">Living like a moon astronaut is hard work</div>
+      <div class="post-copy">
+        Gingerbread lemon drops bear claw donut. Tootsie roll powder apple pie bonbon gummies. Icing donut cotton
+        candy
+        powder powder pastry powder marshmallow apple pie. Cookie cookie chupa chups.
+      </div>
+      <div class="post-cta">Read more</div>
+    </div>
+  </div>
+</div>
